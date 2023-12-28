@@ -1,4 +1,4 @@
-qq# Fizz
+# Fizz
 
 **This project allows you to provide a txt file name as input, then it reads the content of that file and transforms the numbers within it into "fizz," "buzz," or "fizzbuzz" based on their multiples.**
 
